@@ -148,7 +148,7 @@ La commande precedente permet de fermer les containers ouverts.
 
   - **-v**: suppression des volumes.
 
-Liste de commande pour le nettoyage du systeme:
+Liste de commande pour le nettoyage du systeme
 -
 
   - **docker container prune**: supprime toutes les ressources docker non utilisees.
